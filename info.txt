@@ -1,3 +1,5 @@
 This is a critical message that i am goint to amend over my previous commit along with this file 
 
 commit #2 during squash 
+
+commit #3 during squash
