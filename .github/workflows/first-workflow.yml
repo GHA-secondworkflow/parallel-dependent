@@ -21,6 +21,6 @@ jobs:
     needs: [run-shell-commands]
     steps:
       - name: echo a string
-        run: Write-output "windows string."
-      - name: Error step
-        run: doesnotexist
+        run: Write-output "windows string"
+      - name: Error Step
+        run: doesnotexits
